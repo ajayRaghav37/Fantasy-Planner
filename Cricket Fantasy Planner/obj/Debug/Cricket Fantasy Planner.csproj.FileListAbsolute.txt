@@ -1,0 +1,5 @@
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Cricket Fantasy Planner\bin\Debug\Cricket Fantasy Planner.dll
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Cricket Fantasy Planner\bin\Debug\Cricket Fantasy Planner.pdb
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Cricket Fantasy Planner\obj\Debug\Cricket Fantasy Planner.csprojResolveAssemblyReference.cache
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Cricket Fantasy Planner\obj\Debug\Cricket Fantasy Planner.dll
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Cricket Fantasy Planner\obj\Debug\Cricket Fantasy Planner.pdb

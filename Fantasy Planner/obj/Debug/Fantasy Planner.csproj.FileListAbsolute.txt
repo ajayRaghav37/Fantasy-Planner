@@ -1,0 +1,8 @@
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Fantasy Planner\bin\Debug\Fantasy Planner.exe.config
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Fantasy Planner\bin\Debug\Fantasy Planner.exe
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Fantasy Planner\bin\Debug\Fantasy Planner.pdb
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Fantasy Planner\bin\Debug\Cricket Fantasy Planner.dll
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Fantasy Planner\bin\Debug\Cricket Fantasy Planner.pdb
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Fantasy Planner\obj\Debug\Fantasy Planner.csprojResolveAssemblyReference.cache
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Fantasy Planner\obj\Debug\Fantasy Planner.exe
+D:\Corporate\ANIco.in\Team Foundation Server\Fantasy Planner\Fantasy Planner\obj\Debug\Fantasy Planner.pdb
